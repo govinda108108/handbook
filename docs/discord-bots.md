@@ -24,20 +24,6 @@ Here's a link to [Collab.land](https://collab.land/) if you'd like to learn more
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/fiVEyVsR7k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Groovy
-
-Groovy is a music playing bot.
-
-> Groovy is the quickest way to turn your Discord server into the big stage. Whether you're an upcoming artist, a super star, or a hobby DJ: Sharing music through Discord has never been easier. -[https://groovy.bot/](https://groovy.bot/)
-
-A list of of Groovy commands can be seen below:
-
-<iframe src="https://groovy.bot/commands/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
-
-[https://groovy.bot/commands](https://groovy.bot/commands)
-
-[https://groovy.zendesk.com/hc/en-us/articles/360060721952](https://groovy.zendesk.com/hc/en-us/articles/360060721952)
-
 ## Friend Time
 
 With Friend Time you can easily coordinate times between users.
@@ -109,16 +95,6 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 [https://sesh.fyi/manual/](https://sesh.fyi/manual/)
 
 <iframe src="https://sesh.fyi/manual/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
-
-## Suggestion Bot.
-
-Suggestion bot is a way to submit suggestions or thoughts on how to improve the community. It has anonymity built into it to further support the idea that all participants are welcome and are encouraged to share their input.
-
-To engage, DM the bot:
-
-```jsx
-!suggest <anonymous message>
-```
 
 ## Haus Bot
 
