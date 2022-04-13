@@ -100,7 +100,7 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
 This bot is operating on Raid Guild discord channels #dao-verified, #uh-notifications and #haus-of-daos for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
 
-- the name fo the proposal
+- the name of the proposal
 - a short description of the proposal
 - the amount of member shares
 - the tribute amount of WXDAI
