@@ -9,7 +9,7 @@ If you are **not** a Raid Guild member, we recommend you check out “[Become An
 
 ### Starting in Discord
 
-If you haven't already introduced yourself, the first place you’ll want to make yourself known is <span class='channels'>#Tavern</span> - where you can introduce yourself, your hobbies and your strengths.
+If you haven't already introduced yourself, the first place you’ll want to make yourself known is <span class='channels'>#tavern</span> - where you can introduce yourself, your hobbies and your strengths.
 
 From here, you’ll want to start earning some rep in the Guild by tackling open Apprentice issues in the <span class='channels'>#projects</span> channel.
 
